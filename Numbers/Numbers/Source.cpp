@@ -1,4 +1,5 @@
 //Even Milosz
+//Odd
 
 #include <iostream> 
 
@@ -12,6 +13,11 @@ int main()
 	if (input % 2 == 0)
 	{
 		std::cout << "The number is even." << std::endl;
+	}
+
+	if (input % 2 == 1)
+	{
+		std::cout << "The number is odd." << std::endl;
 	}
 
 	return 1;
