@@ -1,0 +1,9 @@
+//Odd Milosz
+
+#include <iostream> 
+
+int main()
+{
+
+	return 1;
+}
